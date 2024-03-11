@@ -1,0 +1,31 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the marker package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: marker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-11 10:11+0000\n"
+"PO-Revision-Date: 2024-03-11 10:11+0000\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Tom Walters <net@tomwalters.co.uk>\n"
+"Language: en_GB\n"
+
+#: src/resources/ui/marker-sketcher-window.ui:179
+msgid "Color Chooser"
+msgstr "Colour Chooser"
+
+#: src/resources/ui/marker-prefs-window.ui:484
+msgid "<b>Math</b>"
+msgstr "<b>Maths</b>"
+
+#: src/resources/ui/marker-prefs-window.ui:500
+msgid "Render Math"
+msgstr "Render Maths"
+
+
